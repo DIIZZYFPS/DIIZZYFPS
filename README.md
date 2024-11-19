@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/673c1f8339f50dbedc5666aa?variant=dark" alt="roadmap.sh"/></a>
+
 <!--
 **DIIZZYFPS/DIIZZYFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
