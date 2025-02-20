@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/673c1f8339f50dbedc5666aa?variant=dark" alt="roadmap.sh"/></a>
+![road-card](https://github.com/user-attachments/assets/de9e8288-da67-4e4b-937b-a5f47b3bb96f)
 
 <!--
 **DIIZZYFPS/DIIZZYFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
